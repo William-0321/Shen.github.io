@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: 沈烨
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Ye
+last_name: Shen
 
 # Pronouns (optional)
 pronouns: he/him
@@ -27,8 +27,8 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: East China Normal University
+    url: https://www.ecnu.edu.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,34 +54,24 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Curriculum and Teaching Methodology
+    institution: East China Normal University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2026-09-01
+    date_end: 2029-05-31
     summary: |
       GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Specialized in curriculum assessment.
+  - area: Chinese language and literature
+    institution: Zhejiang Normal University
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2022-09-01
+    date_end: 2026-05-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 4.35/5.0
 
-      Minored in Mathematics. President of AI Club.
+      Specialized in curriculum assessment.
 
 work:
   - position: Senior AI Research Scientist
@@ -169,4 +159,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Shen Ye is a master's student majoring in Curriculum and Instruction at East China Normal University.
